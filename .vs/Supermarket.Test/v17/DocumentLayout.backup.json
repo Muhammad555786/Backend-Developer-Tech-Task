@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\D Drive\\Projects VS2022\\Supermarket.Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C40EF51-D6FD-419A-8D06-7B82472B27FB}|Supermarket.Test\\Supermarket.Test.csproj|c:\\d drive\\projects vs2022\\supermarket.test\\supermarket.test\\checkouttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C40EF51-D6FD-419A-8D06-7B82472B27FB}|Supermarket.Test\\Supermarket.Test.csproj|solutionrelative:supermarket.test\\checkouttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C40EF51-D6FD-419A-8D06-7B82472B27FB}|Supermarket.Test\\Supermarket.Test.csproj|c:\\d drive\\projects vs2022\\supermarket.test\\supermarket.test\\logic\\checkout .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C40EF51-D6FD-419A-8D06-7B82472B27FB}|Supermarket.Test\\Supermarket.Test.csproj|solutionrelative:supermarket.test\\logic\\checkout .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C40EF51-D6FD-419A-8D06-7B82472B27FB}|Supermarket.Test\\Supermarket.Test.csproj|c:\\d drive\\projects vs2022\\supermarket.test\\supermarket.test\\logic\\icheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C40EF51-D6FD-419A-8D06-7B82472B27FB}|Supermarket.Test\\Supermarket.Test.csproj|solutionrelative:supermarket.test\\logic\\icheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICheckout.cs",
+              "DocumentMoniker": "C:\\D Drive\\Projects VS2022\\Supermarket.Test\\Supermarket.Test\\Logic\\ICheckout.cs",
+              "RelativeDocumentMoniker": "Supermarket.Test\\Logic\\ICheckout.cs",
+              "ToolTip": "C:\\D Drive\\Projects VS2022\\Supermarket.Test\\Supermarket.Test\\Logic\\ICheckout.cs",
+              "RelativeToolTip": "Supermarket.Test\\Logic\\ICheckout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:39:46.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckoutTests.cs",
+              "DocumentMoniker": "C:\\D Drive\\Projects VS2022\\Supermarket.Test\\Supermarket.Test\\CheckoutTests.cs",
+              "RelativeDocumentMoniker": "Supermarket.Test\\CheckoutTests.cs",
+              "ToolTip": "C:\\D Drive\\Projects VS2022\\Supermarket.Test\\Supermarket.Test\\CheckoutTests.cs",
+              "RelativeToolTip": "Supermarket.Test\\CheckoutTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:17:05.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Checkout .cs",
+              "DocumentMoniker": "C:\\D Drive\\Projects VS2022\\Supermarket.Test\\Supermarket.Test\\Logic\\Checkout .cs",
+              "RelativeDocumentMoniker": "Supermarket.Test\\Logic\\Checkout .cs",
+              "ToolTip": "C:\\D Drive\\Projects VS2022\\Supermarket.Test\\Supermarket.Test\\Logic\\Checkout .cs",
+              "RelativeToolTip": "Supermarket.Test\\Logic\\Checkout .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:15:12.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
